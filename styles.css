@@ -1,0 +1,36 @@
+body{
+background-color:#9bdeac;
+color:#010a43;
+font-size:100px;
+font-family: 'Lobster', cursive;
+text-align: center;
+margin:10px;
+
+background-image: url('30438.jpg');
+background-repeat:no-repeat;
+background-size:100% 100%;
+
+}
+.a{
+  font-size:25px;
+  font-family: 'Lobster', cursive;
+  transform: rotate(-7deg);
+  width:400px;
+  height:300px;
+
+  position:absolute;
+  left:480px;
+  top:350px;
+}
+
+.gif
+{
+  position: absolute;
+  left: 600px;
+}
+
+/*.text{
+    font-family: 'Mali', cursive;
+    display: inline-block;
+    color:#010a43;
+}*/
